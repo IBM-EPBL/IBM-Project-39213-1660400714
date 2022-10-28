@@ -29,4 +29,3 @@
     [ "uno:5V", "ultrasonic:VCC", "red", [ "v16", "h-96", "*", "v12" ] ]
   ]
 }
-Footer
